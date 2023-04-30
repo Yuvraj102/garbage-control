@@ -17,7 +17,7 @@ function About() {
               cleanliness activities across the nation, the dream of a Clean
               India once seen by Mahatma Gandhi has begun to get a shape.
             </p>
-            <a>
+            <a href="#">
               <button class="explore">View More</button>
             </a>
           </div>
