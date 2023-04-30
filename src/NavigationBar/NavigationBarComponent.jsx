@@ -38,7 +38,7 @@ function NavigationBarComponent() {
               </Link>
             </Nav.Link>
             <Nav.Link>
-              <Link to="/login" className="nav_link">
+              <Link to="/" className="nav_link">
                 Logout
               </Link>
             </Nav.Link>

@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <Switch>
-        <Route path="/login" exact>
+        <Route path="/" exact>
           <Login />
         </Route>
         {state.token && (
