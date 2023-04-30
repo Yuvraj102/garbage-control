@@ -14,8 +14,8 @@ function About() {
               driver has turned into a National Movement. A sense of
               responsibility has been evoked among the people through the Clean
               India Movement. With citizens now becoming active participants in
-              cleanliness activities across the nation, the dream of a ‘Clean
-              India’ once seen by Mahatma Gandhi has begun to get a shape.
+              cleanliness activities across the nation, the dream of a Clean
+              India once seen by Mahatma Gandhi has begun to get a shape.
             </p>
             <a>
               <button class="explore">View More</button>
