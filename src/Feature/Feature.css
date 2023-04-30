@@ -1,0 +1,17 @@
+.feature_rule {
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+  width: 10px solid gray;
+}
+.feature_reply {
+  width: 80%;
+  margin-left: 20%;
+}
+.feature_authority {
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 25px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+}

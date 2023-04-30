@@ -1,0 +1,22 @@
+.card_img {
+  width: 50vw !important;
+  height: 30vh !important;
+}
+.border_shadow {
+  border: 1px solid #bfbfbf;
+  background-color: white;
+  box-shadow: 5px 5px 5px #aaaaaa;
+
+  animation: animate__bounceOut; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  transition: 0.3s;
+}
+.border_shadow:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+@media (max-width: "500px") {
+  .card_img {
+    width: 80vw !important;
+    height: 40vh !important;
+  }
+}

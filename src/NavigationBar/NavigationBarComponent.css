@@ -1,0 +1,9 @@
+.nav_link {
+  text-decoration: none;
+  color: white;
+}
+.control_nav {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+}
