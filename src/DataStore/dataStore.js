@@ -14,7 +14,7 @@ import { ref, uploadBytes, getDownloadURL } from "firebase/storage";
 
 export async function addUser(user) {
   try {
-    if (user.email == "ghogareom397@gmail.com") {
+    if (user.email == "yuvraj.agarkar24@gmail.com") {
       user.role = "authority";
     } else {
       user.role = "user";

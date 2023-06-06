@@ -6,12 +6,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDvxlRlYqonlAEFoA1h3BTSPREDJVA-1Aw",
-  authDomain: "garbage-control-133b0.firebaseapp.com",
-  projectId: "garbage-control-133b0",
-  storageBucket: "garbage-control-133b0.appspot.com",
-  messagingSenderId: "464372997564",
-  appId: "1:464372997564:web:c038396ffd13f58adc9fb9",
+  apiKey: "AIzaSyCt_8Wcn0hSBQxs8hrEh3TdEDeOcESgSxA",
+  authDomain: "garbage-control.firebaseapp.com",
+  projectId: "garbage-control",
+  storageBucket: "garbage-control.appspot.com",
+  messagingSenderId: "272794424068",
+  appId: "1:272794424068:web:f20eb62d756f07a37a7651"
 };
 
 // Initialize Firebase
